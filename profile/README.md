@@ -1,4 +1,4 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0066ff&text=Rocket%20Studios&fontColor=FFFFFF&textBg=false&section=header&animation=twinkling&desc=Modrinth%20Organization&descAlignY=64"></center>
+<center><img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=262430&text=Rocket%20Studios&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Modrinth%20Organization&descAlign=50&descAlignY=53&descSize=17&section=header"></center>
 
 
 <br>
