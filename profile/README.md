@@ -5,6 +5,7 @@
 <div align="center">
   <p align="center">
     Development Team of OptiNa Modpack. associated with The Crew
+    Formally Known as OptiNa Team.
     <br />
     <br />
     <a href="https://github.com/NotAGanesh/OptiNa-Team/blob/main/members.md">Members</a>
